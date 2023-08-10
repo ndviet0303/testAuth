@@ -25,7 +25,7 @@ namespace TestAuthLicense
             var Data = new Licenses()
             {
                 License = "123",
-                Type = "YC51",
+                Type = "Test",
                 PassWord = CreateRandomKey(15),
             };
             var DataJ = JsonMapper.ToJson(Data);
@@ -35,7 +35,7 @@ namespace TestAuthLicense
                 {
                     NameValueCollection nameValueCollection = new NameValueCollection();
                     nameValueCollection["data"] = rsa.Encrypt(DataJ);
-                    byte[] bytes = webClient.UploadValues("http://ecommerceweb.test/api/auth", nameValueCollection);
+                    byte[] bytes = webClient.UploadValues("http://shop.ziet.dev/api/auth", nameValueCollection);
                     Result = Encoding.UTF8.GetString(bytes);
                 }
             }
