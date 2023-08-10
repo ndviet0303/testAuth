@@ -1,0 +1,10 @@
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\obj\Debug\TestAuthLicense.csproj.AssemblyReference.cache
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\obj\Debug\TestAuthLicense.csproj.SuggestedBindingRedirects.cache
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\obj\Debug\TestAuthLicense.csproj.CoreCompileInputs.cache
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\bin\Debug\TestAuthLicense.exe.config
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\bin\Debug\TestAuthLicense.exe
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\bin\Debug\TestAuthLicense.pdb
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\bin\Debug\LitJSON.dll
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\obj\Debug\TestAuthLicense.csproj.CopyComplete
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\obj\Debug\TestAuthLicense.exe
+D:\.HeadNoGame\Coding\App C#\TestAuthLicense\TestAuthLicense\obj\Debug\TestAuthLicense.pdb
